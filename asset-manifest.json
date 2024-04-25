@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.dd58b05a.css",
-    "main.js": "/static/js/main.cc6bb8aa.js",
-    "static/media/thucLogo.png": "/static/media/thucLogo.4d7cf62947fc31d99e80.png",
-    "index.html": "/index.html",
-    "main.dd58b05a.css.map": "/static/css/main.dd58b05a.css.map",
-    "main.cc6bb8aa.js.map": "/static/js/main.cc6bb8aa.js.map"
+    "main.css": "/thuc-cafe/static/css/main.dd58b05a.css",
+    "main.js": "/thuc-cafe/static/js/main.bedfa978.js",
+    "static/media/thucLogo.png": "/thuc-cafe/static/media/thucLogo.4d7cf62947fc31d99e80.png",
+    "index.html": "/thuc-cafe/index.html",
+    "main.dd58b05a.css.map": "/thuc-cafe/static/css/main.dd58b05a.css.map",
+    "main.bedfa978.js.map": "/thuc-cafe/static/js/main.bedfa978.js.map"
   },
   "entrypoints": [
     "static/css/main.dd58b05a.css",
-    "static/js/main.cc6bb8aa.js"
+    "static/js/main.bedfa978.js"
   ]
 }
