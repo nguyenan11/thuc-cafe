@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/thuc-cafe/static/css/main.5edef0fd.css",
-    "main.js": "/thuc-cafe/static/js/main.671e7408.js",
+    "main.js": "/thuc-cafe/static/js/main.a73b073b.js",
     "static/media/thucLogo.png": "/thuc-cafe/static/media/thucLogo.4d7cf62947fc31d99e80.png",
     "index.html": "/thuc-cafe/index.html",
     "main.5edef0fd.css.map": "/thuc-cafe/static/css/main.5edef0fd.css.map",
-    "main.671e7408.js.map": "/thuc-cafe/static/js/main.671e7408.js.map"
+    "main.a73b073b.js.map": "/thuc-cafe/static/js/main.a73b073b.js.map"
   },
   "entrypoints": [
     "static/css/main.5edef0fd.css",
-    "static/js/main.671e7408.js"
+    "static/js/main.a73b073b.js"
   ]
 }
