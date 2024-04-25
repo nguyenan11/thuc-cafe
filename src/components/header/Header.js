@@ -1,10 +1,19 @@
 import './Header.css';
+import Container from 'react-bootstrap/Container';
+import Nav from 'react-bootstrap/Nav';
+import Navbar from 'react-bootstrap/Navbar';
 
 function Header() {
   return (
-    <header>
-      <h1>Thuc Cafe Header</h1>
-    </header>
+    <Navbar expand="lg" bg="dark" data-bs-theme="dark">
+        <Container>
+        <Navbar.Brand href="/" className="navbar-brand">Thức Cafe</Navbar.Brand>
+          <Nav className="me-auto">
+            <Nav.Link href="/pre-order" className="navlink">Pre Order</Nav.Link>
+            <Nav.Link href="/about-us" className="navlink">About Us</Nav.Link>
+          </Nav>
+        </Container>
+      </Navbar>
   );
 }
 
