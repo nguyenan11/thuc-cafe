@@ -1,3 +1,4 @@
+import React from 'react';
 import './Header.css';
 import Container from 'react-bootstrap/Container';
 import Nav from 'react-bootstrap/Nav';
@@ -9,8 +10,8 @@ function Header() {
         <Container>
         <Navbar.Brand href="/thuc-cafe" className="navbar-brand">Thức Cafe</Navbar.Brand>
           <Nav className="me-auto">
-            <Nav.Link href="/thuc-cafe/pre-order" className="navlink">Pre Order</Nav.Link>
-            <Nav.Link href="/thuc-cafe/about-us" className="navlink">About Us</Nav.Link>
+            <Nav.Link href="/thuc-cafe/#/pre-order" className="navlink">Pre Order</Nav.Link>
+            <Nav.Link href="/thuc-cafe/#/about-us" className="navlink">About Us</Nav.Link>
           </Nav>
         </Container>
       </Navbar>
