@@ -1,14 +1,16 @@
 {
   "files": {
-    "main.css": "/thuc-cafe/static/css/main.5edef0fd.css",
-    "main.js": "/thuc-cafe/static/js/main.a73b073b.js",
-    "static/media/thucLogo.png": "/thuc-cafe/static/media/thucLogo.4d7cf62947fc31d99e80.png",
+    "main.css": "/thuc-cafe/static/css/main.f88c073c.css",
+    "main.js": "/thuc-cafe/static/js/main.6dfc76be.js",
+    "static/media/phinDripBackground.png": "/thuc-cafe/static/media/phinDripBackground.43e8f3532f671922e444.png",
+    "static/media/background2.jpeg": "/thuc-cafe/static/media/background2.3c39a7fb95333fcd4543.jpeg",
+    "static/media/background1.jpeg": "/thuc-cafe/static/media/background1.7b69701c591b8cbe5297.jpeg",
     "index.html": "/thuc-cafe/index.html",
-    "main.5edef0fd.css.map": "/thuc-cafe/static/css/main.5edef0fd.css.map",
-    "main.a73b073b.js.map": "/thuc-cafe/static/js/main.a73b073b.js.map"
+    "main.f88c073c.css.map": "/thuc-cafe/static/css/main.f88c073c.css.map",
+    "main.6dfc76be.js.map": "/thuc-cafe/static/js/main.6dfc76be.js.map"
   },
   "entrypoints": [
-    "static/css/main.5edef0fd.css",
-    "static/js/main.a73b073b.js"
+    "static/css/main.f88c073c.css",
+    "static/js/main.6dfc76be.js"
   ]
 }
